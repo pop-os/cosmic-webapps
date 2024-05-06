@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: webapps
+Upstream-Contact: Eleven <114903054+elevenhsoft@users.noreply.github.com>
+Source: https://github.com/elevenhsoft/WebApps
+Files: *
+Copyright: Eleven <114903054+elevenhsoft@users.noreply.github.com>
+License: GPL-3.0

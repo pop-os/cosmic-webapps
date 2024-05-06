@@ -1,0 +1,11 @@
+Package: cosmic-webapps
+Version: 0.3.6-0pop1
+Architecture: amd64
+Maintainer: Michael Aaron Murphy <michael@mmurphy.dev>
+Installed-Size: 25704
+Depends: libc6 (>= 2.35), libgcc-s1 (>= 4.2), libssl3 (>= 3.0.0~~alpha1)
+Section: utils
+Priority: optional
+Homepage: https://github.com/pop-os/cosmic-webapps
+Description: Web App Manager for Cosmic desktop
+ Allow you to simply create web applications from given url working inside separate window of your browser of choice.
