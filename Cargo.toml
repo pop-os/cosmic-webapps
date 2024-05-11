@@ -29,7 +29,7 @@ lazy_static = "1.4.0"
 [dependencies.libcosmic]
 git = "https://github.com/pop-os/libcosmic"
 default-features = false
-features = ["tokio", "winit"]
+features = ["dbus-config", "tokio", "winit"]
 
 [features]
 default = ["wgpu"]
